@@ -54,12 +54,6 @@
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=PiyushLadukar&theme=dracula&no-frame=true)
-
----
-
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/PiyushLadukar/snake-animation/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 <div align="center">
