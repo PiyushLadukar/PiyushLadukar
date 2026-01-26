@@ -1,11 +1,13 @@
-<img src="https://media.giphy.com/media/1gUn9J3U7V1x1pH6sV/giphy.gif" width="100%" />
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PiyushLadukar)
-![Matrix](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red)
-
+<!-- SPIDERMAN BANNER -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=PIYUSH%20LADUKAR&fontSize=50&fontColor=ffffff)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&center=true&vCenter=true&width=1000&lines=Software+Developer;Backend+Engineer+%7C+Android+Dev;Spring+Boot+%7C+JWT+%7C+APIs;Spider-Man+Fan+%F0%9F%95%B7%EF%B8%8F)
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&center=true&vCenter=true&width=1000&lines=Software+Developer;Backend+Engineer;Android+Developer;Spring+Boot+%7C+JWT+%7C+APIs+%F0%9F%95%B7%EF%B8%8F)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-2a6f8c57-2c5c-4e78-9a1c-9c2c5c1c1d28.gif" width="100%" />
+
+</div>
 
 ---
 
@@ -17,7 +19,7 @@
 ---
 
 ## 🧠 Tech Stack
-**Java • Spring Boot • REST APIs • SQL • JWT • Android • React • IoT • Git**
+**Java • Spring Boot • REST APIs • SQL • JWT • Android • React • HTML • CSS • JavaScript • IoT • Git**
 
 ---
 
@@ -28,23 +30,40 @@
 
 ---
 
-## 🌐 Connect
-🔗 [LinkedIn](https://www.linkedin.com/in/piyush-ladukar/)  
-💻 [GitHub](https://github.com/PiyushLadukar)  
-📧 work.piyushladukar@gmail.com  
+## 🌐 Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/piyush-ladukar/  
+💻 GitHub: https://github.com/PiyushLadukar  
+📧 Email: work.piyushladukar@gmail.com  
 
 ---
 
-## 🧪 GitHub Stats
+## 👀 Profile Visitors
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PiyushLadukar.PiyushLadukar)
+
+---
+
+## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=PiyushLadukar&show_icons=true&theme=radical&hide_border=true)
 
+---
+
+## 🔥 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushLadukar&layout=compact&theme=radical&hide_border=true)
 
 ---
 
+## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=PiyushLadukar&theme=dracula&no-frame=true)
 
 ---
 
-> 🕸️ "With great code comes great responsibility."
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/PiyushLadukar/snake-animation/blob/output/github-contribution-grid-snake.svg)
 
+---
+
+<div align="center">
+
+### 🕸️ “With great code comes great responsibility.”
+
+</div>
