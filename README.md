@@ -40,21 +40,6 @@
 ## 👀 Profile Visitors
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PiyushLadukar.PiyushLadukar)
 
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=PiyushLadukar&show_icons=true&theme=radical&hide_border=true)
-
----
-
-## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushLadukar&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=PiyushLadukar&theme=dracula&no-frame=true)
----
 
 <div align="center">
 
