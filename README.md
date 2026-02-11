@@ -512,7 +512,6 @@ opportunities = {
 <div align="center">
 
 ### 👁️ Profile Visitors
-<img src="https://profile-counter.glitch.me/PiyushLadukar/count.svg" width="250"/>
 
 <img src="https://komarev.com/ghpvc/?username=PiyushLadukar&label=Total%20Profile%20Views&color=ff0000&style=for-the-badge" />
 
