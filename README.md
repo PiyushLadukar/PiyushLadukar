@@ -206,7 +206,7 @@ experience = {
 </td>
 <td width="25%" align="center">
 
-### 🎯 Work how u snsnknks
+### 🎯 Work Ethics
 ```typescript
 const workStyle = {
   learning: "Rapid & Deep",
