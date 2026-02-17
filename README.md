@@ -517,16 +517,6 @@ opportunities = {
 
 </div>
 
-<br/>
-
-<!-- 🕷️ FOOTER WITH QUOTE -->
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=%F0%9F%95%B7%EF%B8%8F+%22With+great+code+comes+great+responsibility.%22;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%92%A1+Innovation+through+clean+code+%26+creativity;%E2%9A%A1+Let's+build+something+amazing+together!" alt="Footer Quote" />
-
-</div>
 
 <br/>
 
