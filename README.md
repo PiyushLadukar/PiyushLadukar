@@ -148,8 +148,8 @@ const piyushLadukar = {
 
 <!-- STATS CARDS -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PiyushLadukar&show_icons=true&theme=radical&hide_border=false&border_color=ff0000&bg_color=0d1117&title_color=ff0000&icon_color=ff6b00&text_color=ffffff&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushLadukar&theme=radical&hide_border=false&border=ff0000&background=0d1117&ring=ff0000&fire=ff6b00&currStreakLabel=ff0000&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=PiyushLadukar&theme=radical&border_radius=10&background=0D1117&border=00ffff&ring=ff00ff&fire=ff4444&currStreakLabel=00ffff)](https://git.io/streak-stats" />
+  
 </p>
 
 <p align="center">
