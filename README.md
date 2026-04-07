@@ -135,35 +135,6 @@ const piyushLadukar = {
 
 </div>
 
-
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushLadukar&bg_color=0d1117&color=ff0000&line=ff6b00&point=ffff00&area=true&hide_border=false&border=ff0000&title_color=ff0000&custom_title=💻%20Piyush's%20Contribution%20Graph" width="95%">
-</div>
-
-<br/>
-
-<!-- STATS CARDS -->
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=PiyushLadukar&theme=radical&border_radius=10&background=0D1117&border=00ffff&ring=ff00ff&fire=ff4444&currStreakLabel=00ffff)](https://git.io/streak-stats" />
-  
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushLadukar&layout=compact&theme=radical&hide_border=false&border_color=ff0000&bg_color=0d1117&title_color=ff0000&text_color=ffffff&langs_count=8" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PiyushLadukar&theme=radical&utcOffset=5.5" />
-</p>
-
-<!-- TROPHY SHOWCASE -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PiyushLadukar&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="95%" />
-</div>
-
-<br/>
-
 <!-- 🕷️ SPIDER WEB DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
