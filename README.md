@@ -1,472 +1,460 @@
-<!-- ================= ULTRA KHATARNAK SPIDERMAN README ================= -->
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--          PIYUSH LADUKAR — SPIDER-MAN THEMED README          -->
+<!-- ████████████████████████████████████████████████████████████ -->
 
-<!-- 🔥 EPIC HERO BANNER WITH SPIDER THEME -->
 <div align="center">
-  
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF0000,100:8B0000&text=PIYUSH%20LADUKAR&fontColor=FFFFFF&fontSize=80&fontAlignY=40&animation=fadeIn&stroke=FFFFFF&strokeWidth=2)
 
-<img width="100%" src="https://github.com/PiyushLadukar/PiyushLadukar/assets/your-id/spiderman-divider.gif" alt="Spider Web Divider"/>
+<!--
+  ┌─────────────────────────────────────────────────────────────┐
+  │  HERO — Spider-Man red/blue, web banner, swinging gif       │
+  └─────────────────────────────────────────────────────────────┘
+-->
 
-</div>
+<!-- TOP WEB BANNER — red to deep crimson -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0d0d0d,30:1a0000,65:8B0000,100:CC0000&reversal=false&section=header"/>
 
+<!-- SPIDER-MAN SWINGING GIF — the hero gif -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanppNWp5NGRlcGtzdHRtNGhmNm5jaWd5bGdiN3oxaXc5eXJmMm55aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR5nYZPkJoRv0nS/giphy.gif" width="100%" height="200" style="object-fit:cover; margin-top:-2px;"/>
 
-<!-- 🎯 ULTRA PREMIUM STATS CARDS WITH GLOW EFFECT -->
-<div align="center">
-  
-[![Years Coding](https://img.shields.io/badge/⚡_Coding_Experience-2%2B_Years-FF0000?style=for-the-badge&labelColor=000000&logo=code&logoColor=white)](https://github.com/PiyushLadukar)
-[![Projects](https://img.shields.io/badge/🚀_Projects_Built-12%2B-00FF41?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)](https://github.com/PiyushLadukar?tab=repositories)
-[![Hackathons](https://img.shields.io/badge/🏆_Hackathons-10%2B-FFD700?style=for-the-badge&labelColor=000000&logo=trophy&logoColor=white)]()
-[![Status](https://img.shields.io/badge/💼_Status-ACTIVELY_SEEKING-00D9FF?style=for-the-badge&labelColor=000000&logo=rocket&logoColor=white)]()
-[![Location](https://img.shields.io/badge/📍_Based_In-Nagpur%2C%20India-FF6B00?style=for-the-badge&labelColor=000000&logo=google-maps&logoColor=white)]()
-
-</div>
-
-<!-- 🕷️ SPIDER WEB DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
-
-<!-- 🎯 PROFILE PREVIEW WITH CODING GIF -->
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
+<!-- WEB DIVIDER — bottom of gif, top of name -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:CC0000,40:FF0000,60:FF0000,100:CC0000"/>
 
 <br/>
 
-<!-- 🕸️ ULTRA MODERN ABOUT SECTION -->
-<div align="center">
+<!-- ORBITRON NAME — white on dark, large -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=880&height=76&lines=PIYUSH+LADUKAR" alt="Piyush Ladukar"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> WHO IS PIYUSH? <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+<!-- SPIDER-MAN RED SUBTITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=1&pause=999999&color=FF2222&center=true&vCenter=true&width=880&height=30&lines=FULL-STACK+%E2%80%A2+AI+%E2%80%A2+BACKEND+%E2%80%A2+DATA+SCIENCE" alt="role"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50">
+<br/>
+
+<!-- CYCLING ACHIEVEMENTS — blue web-shooter accent -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2300&pause=750&color=4488FF&center=true&vCenter=true&width=780&height=42&lines=%F0%9F•+Backend+Dev+%40+ESM+Pvt.+Ltd+%7C+12%2B+REST+APIs;%F0%9F•+Research+Published+%40+IJVRA+%E2%80%94+Anomax;%F0%9F•+500%2B+MPs+Analyzed+%E2%80%94+LokDrishti+Civic+AI;%F0%9F•+2x+National+Karate+Gold+Medalist+(2019);%F0%9F•+Open+to+Internships+%26+Collaborations" alt="cycling"/>
+
+<br/>
+
+<!-- STAT PILLS — spider-man red / blue palette -->
+<a href="https://github.com/PiyushLadukar"><img src="https://komarev.com/ghpvc/?username=PiyushLadukar&label=Profile+Views&color=CC0000&style=flat-square&labelColor=1a0000"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/-Actively%20Seeking-CC0000?style=flat-square&logo=checkmarx&logoColor=white&labelColor=4a0000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/-CGPA%208.4-1565C0?style=flat-square&logo=googlescholar&logoColor=white&labelColor=0a2a5c"/>
+&nbsp;
+<img src="https://img.shields.io/badge/-12%2B%20Hackathons-CC0000?style=flat-square&logo=devpost&logoColor=white&labelColor=4a0000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/-Research%20Published-1565C0?style=flat-square&logo=researchgate&logoColor=white&labelColor=0a2a5c"/>
+&nbsp;
+<img src="https://img.shields.io/badge/-Nagpur%20IN-CC0000?style=flat-square&logo=googlemaps&logoColor=white&labelColor=4a0000"/>
+
+<br/><br/>
+
+<!-- WEB-THREAD DIVIDER — thin red line -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4a0000,40:CC0000,60:FF3333,100:4a0000"/>
+
+<br/>
+
+<!-- SOCIAL BUTTONS — spider-man themed -->
+<a href="https://www.linkedin.com/in/piyush-ladukar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/>
+</a>&nbsp;
+<a href="https://github.com/PiyushLadukar">
+  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=CC0000" height="36"/>
+</a>&nbsp;
+<a href="mailto:work.piyushladukar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-CC0000?style=for-the-badge&logo=gmail&logoColor=white" height="36"/>
+</a>&nbsp;
+<a href="https://piyushladukar.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=FF3333" height="36"/>
+</a>&nbsp;
+<a href="https://instagram.com/piyush_ladukar">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="36"/>
+</a>
+
+<br/><br/>
+
+<!-- BOTTOM CLOSING WAVE — deep red to black -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:CC0000,50:8B0000,100:0d0d0d&reversal=true&section=footer"/>
 
 </div>
 
-```typescript
-const piyushLadukar = {
-    name: "Piyush Ladukar",
-    location: "Nagpur, India 🇮🇳",
-    role: "Full Stack Developer & AI Explorer",
-    
-    education: {
-        degree: "B.Tech in Engineering",
-        graduation: "2027"
-    },
-    
-    currentFocus: "Building scalable AI-powered applications",
-    availability: "Open for Internships & Collaborations",
-    
-    motto: "Code clean, build fast, learn faster 🚀"
+<br/>
+
+<!-- ┌─────────────────────────────────────────────────────────────┐ -->
+<!--   SPIDER WEB DIVIDER (animated gif)                           -->
+<!-- └─────────────────────────────────────────────────────────────┘ -->
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ABOUT — code card + Spider-Man dev gif -->
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXozaW9rMW92OWd2bXRtMGFsNDR3NGRveGM3d29mOTBtbm9la2E4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="270"/>
+
+```ts
+const piyush = {
+  name     : "Piyush Rajendra Ladukar",
+  location : "Nagpur, Maharashtra — India",
+  edu      : "B.Tech @ JIT Nagpur  |  CGPA 8.4",
+  grad     : "July 2027",
+
+  domains  : ["Full-Stack", "AI/ML", "Data Science",
+              "Civic Tech", "Computer Vision"],
+
+  research : "Anomax — published @ IJVRA",
+  sport    : "2x National Karate Gold (2019)",
+  oss      : "Rajniti — civic-tech platform",
+
+  building : "SecondBrain — Personal AI OS",
+  open_for : ["Internships", "Freelance", "Collabs"],
 };
 ```
 
-<br/>
-
-<!-- 🕷️ SPIDER WEB DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- 🛠️ TECH STACK WITH PREMIUM DESIGN -->
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> TECHNOLOGY ARSENAL
-
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-
-</div>
-
-### <div align="center">💻 Languages & Core Tech</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-### <div align="center">🚀 Frameworks & Libraries</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### <div align="center">🗄️ Databases & Cloud</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### <div align="center">🛠️ Tools & Platforms</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</p>
+<br clear="right"/>
 
 <br/>
 
-<!-- 🕷️ SPIDER WEB DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ┌─────────────────────────────────────────────────────────────┐ -->
+<!--   EXPERIENCE                                                   -->
+<!-- └─────────────────────────────────────────────────────────────┘ -->
 
-<!-- 📊 PREMIUM GITHUB STATS -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GITHUB STATISTICS <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+## `< Experience />`
 
-</div>
+<table width="92%" cellpadding="0" cellspacing="0">
+<tr><td align="left"><br/>
 
-<!-- 🕷️ SPIDER WEB DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://img.shields.io/badge/%20ESM%20Pvt.%20Ltd%20%E2%80%94%20Backend%20Developer%20Intern-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=CC0000&labelColor=1a0000&color=1a0000" height="34"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Aug%202025%20%E2%80%93%20Oct%202025-1a0000?style=flat-square&logo=googlecalendar&logoColor=CC0000" height="22"/>
 
-<!-- 🎯 WHY HIRE ME - PREMIUM DESIGN -->
-<div align="center">
+<br/><br/></td></tr>
+</table>
 
-## 🎯 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> WHY YOU SHOULD HIRE ME ?
-
-</div>
-
-<table align="center" width="100%">
+<table width="92%">
 <tr>
-<td width="25%" align="center">
+<td width="52%" valign="top">
 
-### 💻 Technical Skills
-```javascript
-{
-  codeQuality: "Production Ready",
-  problemSolving: "Expert",
-  systemDesign: "Scalable",
-  testing: "Comprehensive",
-  documentation: "Crystal Clear"
-}
-```
+**Built**
+
+<img src="https://img.shields.io/badge/12%2B%20REST%20APIs-Node.js%20%C2%B7%20Express%20%C2%B7%20PostgreSQL-CC0000?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1a0000"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/JWT%20%2B%20RBAC%20Auth-5%2B%20User%20Roles-1565C0?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=0a2a5c"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Enterprise%20Services-CIRP%20%2F%20IBC%20Workflows-333333?style=flat-square&logo=databricks&logoColor=white&labelColor=1a1a1a"/>
 
 </td>
-<td width="25%" align="center">
+<td width="48%" valign="top">
 
-### 🚀 Practical Experience
+**Impact**
+
+| Metric | Result |
+|:--|:--|
+| ![latency](https://img.shields.io/badge/API%20Latency-%E2%86%93%2028%25-CC0000?style=flat-square&labelColor=4a0000) | Response time |
+| ![bugs](https://img.shields.io/badge/Backend%20Bugs-%E2%86%93%2032%25-CC0000?style=flat-square&labelColor=4a0000) | Stability |
+| ![auth](https://img.shields.io/badge/Auth%20Workflows-%E2%86%91%2030%25-1565C0?style=flat-square&labelColor=0a2a5c) | Security |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![skillicons](https://skillicons.dev/icons?i=nodejs,express,js,postgres,mongodb,docker,postman,git&theme=dark&perline=8)](https://github.com/PiyushLadukar)
+
+</div>
+
+<br/>
+
+<!-- ┌─────────────────────────────────────────────────────────────┐ -->
+<!--   PROJECTS                                                     -->
+<!-- └─────────────────────────────────────────────────────────────┘ -->
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<div align="center">
+
+## `< Projects />`
+
+</div>
+
+<!-- PROJECT 1 — LokDrishti -->
+<table align="center" width="92%">
+<tr><td>
+
+<img src="https://img.shields.io/badge/LokDrishti-AI%20Civic%20Intelligence%20Platform-1a0000?style=for-the-badge&logo=react&logoColor=FF3333&labelColor=1a0000" height="34"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LIVE-CC0000?style=flat-square&logo=statuspage&logoColor=white&labelColor=4a0000"/>
+&nbsp;
+<a href="https://github.com/PiyushLadukar"><img src="https://img.shields.io/badge/View%20Code-0d0d0d?style=flat-square&logo=github&logoColor=CC0000"/></a>
+
+**Analyzing 500+ Lok Sabha MPs** — attendance, debates, questions, criminal records
+
+<table width="100%"><tr>
+<td width="50%" valign="top">
+
+- Automated **scraping pipelines** for live parliamentary data
+- REST APIs + analytics dashboards for real-time political insights
+- OAuth login · Supabase · public civic-analysis interface
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+[![skillicons](https://skillicons.dev/icons?i=python,react,nodejs,flask,supabase&theme=dark&perline=5)](https://github.com/PiyushLadukar)
+<br/>
+`NumPy` `Pandas` `BeautifulSoup` `OAuth`
+
+</td>
+</tr></table>
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 2 — Why-Farmers-Suicides -->
+<table align="center" width="92%">
+<tr><td>
+
+<img src="https://img.shields.io/badge/Why--Farmers--Suicides%3F-Data%20For%20Social%20Justice-0a2a5c?style=for-the-badge&logo=chartdotjs&logoColor=4488FF&labelColor=0a2a5c" height="34"/>
+&nbsp;
+<img src="https://img.shields.io/badge/IMPACT-1565C0?style=flat-square&logo=databricks&logoColor=white&labelColor=0a2a5c"/>
+&nbsp;
+<a href="https://github.com/PiyushLadukar"><img src="https://img.shields.io/badge/View%20Code-0d0d0d?style=flat-square&logo=github&logoColor=CC0000"/></a>
+
+**Maharashtra farmer suicide trends 2014–2023** — debt · crop failure · weather · financial stress
+
+<table width="100%"><tr>
+<td width="50%" valign="top">
+
+- District & state-wise **visual analytics dashboards**
+- Pattern recognition across socioeconomic indicators
+- Drives **policy conversations** with real verifiable data
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+[![skillicons](https://skillicons.dev/icons?i=python,react,nodejs,flask&theme=dark&perline=4)](https://github.com/PiyushLadukar)
+<br/>
+`NumPy` `Pandas` `BeautifulSoup` `Postman`
+
+</td>
+</tr></table>
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 3 — AatankDrishti -->
+<table align="center" width="92%">
+<tr><td>
+
+<img src="https://img.shields.io/badge/AatankDrishti-Global%20Terrorism%20Dashboard-1a0000?style=for-the-badge&logo=tableau&logoColor=FF3333&labelColor=1a0000" height="34"/>
+&nbsp;
+<img src="https://img.shields.io/badge/181K%2B%20Records-CC0000?style=flat-square&logo=databricks&logoColor=white&labelColor=4a0000"/>
+&nbsp;
+<a href="https://github.com/PiyushLadukar"><img src="https://img.shields.io/badge/View%20Code-0d0d0d?style=flat-square&logo=github&logoColor=CC0000"/></a>
+
+**GTD dataset · 181,000+ incidents · 200+ countries** — fully interactive
+
+<table width="100%"><tr>
+<td width="50%" valign="top">
+
+- Trend visualizations, geospatial mapping, anomaly detection
+- Scalable pipelines processing 181K+ records
+- Built for academic & policy research audiences
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+[![skillicons](https://skillicons.dev/icons?i=python,react,nodejs,flask&theme=dark&perline=4)](https://github.com/PiyushLadukar)
+<br/>
+`NumPy` `Pandas` `BeautifulSoup`
+
+</td>
+</tr></table>
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 4 — Anomax -->
+<table align="center" width="92%">
+<tr><td>
+
+<img src="https://img.shields.io/badge/Anomax-AI%20Anomaly%20Detection%20%E2%80%94%20Research%20Published-0a2a5c?style=for-the-badge&logo=scikitlearn&logoColor=4488FF&labelColor=0a2a5c" height="34"/>
+&nbsp;
+<img src="https://img.shields.io/badge/IJVRA%20Published-1565C0?style=flat-square&logo=researchgate&logoColor=white&labelColor=0a2a5c"/>
+&nbsp;
+<a href="https://github.com/PiyushLadukar"><img src="https://img.shields.io/badge/View%20Code-0d0d0d?style=flat-square&logo=github&logoColor=CC0000"/></a>
+
+**ML system detecting unusual electricity consumption** — paper in IJVRA
+
+<table width="100%"><tr>
+<td width="50%" valign="top">
+
+- Scikit-learn ML pipeline on real-world energy data
+- Anomaly scoring + behavioral profiling of patterns
+- **Published** — International Journal of Versatile Research & Analysis
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+[![skillicons](https://skillicons.dev/icons?i=python,sklearn,pytorch&theme=dark&perline=3)](https://github.com/PiyushLadukar)
+<br/>
+`NumPy` `Pandas` `Machine Learning`
+
+</td>
+</tr></table>
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- MINI PROJECTS TABLE -->
+<div align="center">
+
+**More Builds**
+
+| Project | What It Does | Stack |
+|:--|:--|:--|
+| [**QR Scanner By Pi**](https://github.com/PiyushLadukar/QrScanByPi) | Real-time QR detection + clipboard copy | Python · OpenCV · Pyzbar |
+| [**Blocks By Pi**](https://github.com/PiyushLadukar/BlocksByPi) | Hand gesture → virtual block placement | Python · OpenCV · MediaPipe |
+| [**SecondBrain**](https://github.com/PiyushLadukar) *(In Dev)* | Personal AI OS — RAG · Vector DBs · Agents | Python · LangChain · FAISS |
+| [**Bank Management System**](https://github.com/PiyushLadukar/jit-jwt-full) | Enterprise banking RBAC + JWT | React · Node · MongoDB |
+
+</div>
+
+<br/>
+
+<!-- ┌─────────────────────────────────────────────────────────────┐ -->
+<!--   TECH STACK                                                   -->
+<!-- └─────────────────────────────────────────────────────────────┘ -->
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<div align="center">
+
+## `< Tech Stack />`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=3000&color=CC0000&center=true&vCenter=true&width=680&height=26&lines=Languages+%7C+Frameworks+%7C+Databases+%7C+AI%2FML+%7C+Tools"/>
+
+<br/>
+
+**Languages**
+<br/>
+[![skills](https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css&theme=dark&perline=7)](https://github.com/PiyushLadukar)
+
+<br/>
+
+**Frontend & Backend**
+<br/>
+[![skills](https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,flutter,bootstrap&theme=dark&perline=7)](https://github.com/PiyushLadukar)
+
+<br/>
+
+**Databases**
+<br/>
+[![skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,sqlite&theme=dark&perline=5)](https://github.com/PiyushLadukar)
+
+<br/>
+
+**AI · ML · Computer Vision**
+<br/>
+[![skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=4)](https://github.com/PiyushLadukar)
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-CC0000?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br/>
+
+**Tools & Platforms**
+<br/>
+[![skills](https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel,render,figma&theme=dark&perline=8)](https://github.com/PiyushLadukar)
+
+</div>
+
+<br/>
+
+<!-- ┌─────────────────────────────────────────────────────────────┐ -->
+<!--   ACHIEVEMENTS                                                 -->
+<!-- └─────────────────────────────────────────────────────────────┘ -->
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<div align="center">
+
+## `< Achievements />`
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PiyushLadukar&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/PiyushLadukar)
+
+<br/>
+
+<table width="84%">
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/12%2B%20Hackathons-Participated-CC0000?style=for-the-badge&logo=devpost&logoColor=white&labelColor=4a0000"/></td>
+<td align="center"><img src="https://img.shields.io/badge/2x%20Event%20Head-Organized-1565C0?style=for-the-badge&logo=meetup&logoColor=white&labelColor=0a2a5c"/></td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/IJVRA-Research%20Published-CC0000?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=4a0000"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Rajniti-Open%20Source%20Contributor-1565C0?style=for-the-badge&logo=github&logoColor=white&labelColor=0a2a5c"/></td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td colspan="2" align="center"><img src="https://img.shields.io/badge/2x%20National%20Karate%20Gold%20(2019)-Maharashtra%20%E2%80%94%20250%2B%20Athletes-CC0000?style=for-the-badge&logoColor=white&labelColor=4a0000"/></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ┌─────────────────────────────────────────────────────────────┐ -->
+<!--   CURRENTLY                                                    -->
+<!-- └─────────────────────────────────────────────────────────────┘ -->
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<div align="center">
+
+## `< Currently />`
+
+</div>
+
+<table align="center" width="92%">
+<tr>
+<td width="50%" valign="top">
+
+**Building**
 ```python
-experience = {
-    "projects": "12+ Completed",
-    "hackathons": "10+ Participated",
-    "teamwork": "Excellent",
-    "agile": "Proficient",
-    "delivery": "On Time ⏰"
+SecondBrain = {
+  "what"     : "Personal AI Ecosystem",
+  "modules"  : ["AI Agents", "RAG Pipelines",
+                "Vector DBs", "LangChain"],
+  "learning" : ["AWS/GCP", "Microservices",
+                "GraphQL", "Kubernetes"]
 }
 ```
 
 </td>
-<td width="25%" align="center">
-
-### 🎯 Work Ethics
-```typescript
-const workStyle = {
-  learning: "Rapid & Deep",
-  communication: "Clear",
-  initiative: "High",
-  reliability: "100%",
-  passion: "Unlimited 🔥"
-}
-```
-
-</td>
-<td width="25%" align="center">
-
-### 🌟 Growth Mindset
-```yaml
-continuous_learning:
-  - New Technologies
-  - Best Practices
-  - Industry Trends
-  - Open Source
-  - Community Active
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### ⚡ Quick Highlights
-
-| 🎯 Strength | 📊 Level | 🔥 Impact |
-|:---:|:---:|:---:|
-| **Problem Solving** | ████████░░ 85% | High |
-| **Full Stack Development** | █████████░ 90% | Very High |
-| **AI/ML Implementation** | ███████░░░ 75% | High |
-| **Team Collaboration** | ████████░░ 88% | Very High |
-| **Quick Learning** | █████████░ 92% | Exceptional |
-
-</div>
-
-<br/>
-
-<!-- 🕷️ SPIDER WEB DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- 🏆 FEATURED PROJECTS - PREMIUM SHOWCASE -->
-<div align="center">
-
-## 🏆 <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"> FEATURED PROJECTS
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-
-</div>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
 <td width="50%" valign="top">
 
-###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="25" /> Bank Management System
-
-<div align="center">
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PiyushLadukar/jit-jwt-full)
-![Stars](https://img.shields.io/github/stars/PiyushLadukar/jit-jwt-full?style=social)
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
-
-</div>
-
-**🔐 Features:**
-- ✅ Secure JWT Authentication
-- ✅ Role-Based Access Control (RBAC)
-- ✅ Admin, Manager & Customer Roles
-- ✅ Real-time Banking Operations
-- ✅ Transaction Management
-
-> 🎯 **Impact:** Enterprise-grade security for financial operations
-
-</td>
-
-<td width="50%" valign="top">
-
-###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="25" /> QR Scanner By Pi
-
-<div align="center">
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PiyushLadukar/QrScanByPi)
-![Stars](https://img.shields.io/github/stars/PiyushLadukar/QrScanByPi?style=social)
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white" />
-
-</div>
-
-**📸 Features:**
-- ✅ Real-time QR Code Detection
-- ✅ Multi-format Support
-- ✅ Auto-copy to Clipboard
-- ✅ Lightning Fast Processing
-- ✅ User-friendly Interface
-
-> 🎯 **Impact:** Instant QR scanning with 99% accuracy
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25" /> Blocks By Pi
-
-<div align="center">
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PiyushLadukar/BlocksByPi)
-![Stars](https://img.shields.io/github/stars/PiyushLadukar/BlocksByPi?style=social)
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Mediapipe-0097A7?style=flat&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-
-</div>
-
-**👋 Features:**
-- ✅ Hand Gesture Recognition
-- ✅ Virtual Block Manipulation
-- ✅ Real-time Computer Vision
-- ✅ Futuristic Holographic UI
-- ✅ No Physical Controllers Needed
-
-> 🎯 **Impact:** Minority Report-style gesture control system
-
-</td>
-
-<td width="50%" valign="top">
-
-###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="25" /> 10+ Hackathon Projects
-
-<div align="center">
-
-[![View Profile](https://img.shields.io/badge/View_All_Projects-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PiyushLadukar?tab=repositories)
-
-<img src="https://img.shields.io/badge/AI/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Web-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Mobile-02569B?style=flat&logo=flutter&logoColor=white" />
-
-</div>
-
-**🚀 Achievements:**
-- ✅ 10+ Hackathons Participated
-- ✅ Multiple Winning Solutions
-- ✅ Rapid Prototyping Expert
-- ✅ Innovation-Driven Development
-- ✅ Team Leadership Experience
-
-> 🎯 **Impact:** Proven track record of solving real-world problems under pressure
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- 🕷️ SPIDER WEB DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- 🌐 CONNECT SECTION - ULTRA PREMIUM -->
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" /> LET'S CONNECT & BUILD SOMETHING AMAZING
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-
-</div>
-
-<br/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/piyush-ladukar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="https://github.com/PiyushLadukar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
-  </a>
-  <a href="mailto:work.piyushladukar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
-  </a>
-  <a href="https://piyushladukar.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="40"/>
-  </a>
-  <a href="https://instagram.com/piyush_ladukar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40"/>
-  </a>
-</p>
-
-<br/>
-
-<div align="center">
-
-### 📬 Quick Contact Card
-
-<table>
-<tr>
-<td>
-
-```yaml
-contact:
-  📧 email: work.piyushladukar@gmail.com
-  💼 linkedin: linkedin.com/in/piyush-ladukar
-  🌐 portfolio: piyushladukar.vercel.app
-  📱 github: github.com/PiyushLadukar
-  📍 location: Nagpur, Maharashtra, India
-  
-status:
-  💡 available_for: ["Internships", "Freelance", "Collaborations"]
-  🚀 response_time: "Within 24 hours"
-  🎯 best_time: "9 AM - 9 PM IST"
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- 🕷️ SPIDER WEB DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- 📌 CURRENT STATUS - PREMIUM -->
-<div align="center">
-
-## 🎯 <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> CURRENT FOCUS & AVAILABILITY
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🔥 What I'm Building
-
-```javascript
-const currentProjects = {
-  primary: "AI-powered SaaS Application",
-  learning: [
-    "System Design at Scale",
-    "Cloud Architecture (AWS/GCP)",
-    "Advanced React Patterns",
-    "Microservices Architecture"
-  ],
-  exploring: [
-    "Web3 & Blockchain",
-    "DevOps & CI/CD",
-    "GraphQL & Apollo",
-    "Kubernetes & Docker"
-  ]
-}
-```
-
-</td>
-<td width="50%">
-
-### 💼 Open For Opportunities
-
-```python
-opportunities = {
-    "internships": {
-        "roles": ["Full Stack", "AI/ML", "Backend"],
-        "duration": "3-6 months",
-        "start_date": "Immediately Available"
-    },
-    "freelance": {
-        "projects": "Web & Mobile Apps",
-        "availability": "20+ hours/week"
-    },
-    "collaboration": {
-        "type": "Open Source & Startups",
-        "expertise": "Full Stack + AI/ML"
-    }
+**Open For**
+```js
+const seeking = {
+  internships : ["Full Stack","AI/ML","Backend"],
+  duration    : "3–6 months",
+  start       : "IMMEDIATELY",
+  freelance   : "Web & AI Apps · 20+ hrs/wk",
+  collab      : "Open Source & Startups",
 }
 ```
 
@@ -476,36 +464,43 @@ opportunities = {
 
 <br/>
 
-<!-- 🕷️ SPIDER WEB DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ┌─────────────────────────────────────────────────────────────┐ -->
+<!--   CONNECT                                                      -->
+<!-- └─────────────────────────────────────────────────────────────┘ -->
 
-<!-- 👁️ PROFILE VIEWS - PREMIUM DESIGN -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 <div align="center">
 
-### 👁️ Profile Visitors
+## `< Connect />`
 
-<img src="https://komarev.com/ghpvc/?username=PiyushLadukar&label=Total%20Profile%20Views&color=ff0000&style=for-the-badge" />
+<a href="https://www.linkedin.com/in/piyush-ladukar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>&nbsp;
+<a href="https://github.com/PiyushLadukar"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=CC0000" height="40"/></a>&nbsp;
+<a href="mailto:work.piyushladukar@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC0000?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>&nbsp;
+<a href="https://piyushladukar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=FF3333" height="40"/></a>&nbsp;
+<a href="https://instagram.com/piyush_ladukar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/work.piyushladukar%40gmail.com-CC0000?style=flat-square&logo=gmail&logoColor=white&labelColor=4a0000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Nagpur%2C%20Maharashtra%2C%20India-1565C0?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0a2a5c"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Response%20within%2024h-CC0000?style=flat-square&logo=clockify&logoColor=white&labelColor=4a0000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/9%20AM%20%E2%80%93%209%20PM%20IST-1565C0?style=flat-square&logoColor=white&labelColor=0a2a5c"/>
 
 </div>
-
 
 <br/>
 
-<!-- ANIMATED FOOTER WAVE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&text=Thanks%20For%20Visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
-</div>
+<!-- FOOTER — spider red wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,35:4a0000,70:8B0000,100:CC0000&height=140&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20Star%20if%20it%20helped&fontSize=17&fontColor=FFFFFF&animation=twinkling&fontAlignY=70"/>
 
-<!-- FINAL CTA -->
 <div align="center">
 
-### ⭐ Star my repos if you find them interesting!
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2000&color=CC0000&center=true&vCenter=true&width=640&lines=If+you+read+this+far...+you%27re+my+kind+of+person;Let%27s+build+something+that+matters+together;Star+the+repos+if+they+sparked+something"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
-
-**✨ Made by Piyush Ladukar ✨**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
-
+**Crafted by Piyush Ladukar**
 
 </div>
